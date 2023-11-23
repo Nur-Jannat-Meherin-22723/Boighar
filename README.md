@@ -1,6 +1,7 @@
 The name of this Project is Boighor. It is my 3-2 Software Design Patterns Lab project with my Lab Partner Fatematuzzohra Prity. Boighor is totally based on Object Oriented Concept. Frontend Language is HTML with Bootstap framework using jsp files and the backend language is Java especially Advance java servlet. For database we've used mysql server and mysql workbench.
 
-There are many features in or Boighor App. The features are shown in a Project Video uploaded here. Enjoy the Video.
+There are many features in our Boighor App. The features are shown in a Project Video uploaded here. Enjoy the Video.
+https://clipchamp.com/watch/OHIbJTvt7x8?fbclid=IwAR1O5tZ5sMWbwvF_dScr6EEJv80Fn1L_W2rV_bnXz5JyBtWJavkCJGXOS08
 
 Boighor Presentation :
 https://www.canva.com/design/DAF0916-3yg/qjsjBGIE3ipzwd8JRC-GCA/edit?utm_content=DAF0916-3yg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
